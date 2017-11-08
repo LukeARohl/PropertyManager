@@ -1,6 +1,6 @@
 The goal of this project is to create a web app that allows coordinated management of a property. <br />
 
-Users:<br />
+<strong>Users:</strong><br />
 Rentee - An individual who is renting some part of a rental property.<br />
 A Rentee is able to pay rent, pay security deposit, view lease, submit work orders, and view rental property posts <br />
 Renter - An individual or company who is supplying the property which is rented <br />
@@ -12,8 +12,8 @@ A Manager is able to add renters to a rental property, set rent rate, post a lea
 
 The Goal of this project is to combine Laravel's MVC pattern and ReactJS to create a web app that could be used for rental properties. <br />
 
-New:<br />
+<strong>New:</strong><br />
 TODO<br />
 
-Complex:<br />
+<strong>Complex:</strong><br />
 TODO<br />
